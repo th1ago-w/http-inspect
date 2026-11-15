@@ -86,3 +86,8 @@ README.md             Instruções e limitações
 - [MDN: Content-Security-Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Content-Security-Policy)
 - [MDN: X-Content-Type-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Content-Type-Options)
 - [MDN: X-Frame-Options](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/X-Frame-Options)
+
+## Demonstração
+
+<img width="1650" height="1436" alt="http-inspect" src="https://github.com/user-attachments/assets/aa1331d5-da9d-4de0-a34a-647e80833216" />
+
