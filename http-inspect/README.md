@@ -1,6 +1,6 @@
 # HTTP Inspect
 
-Ferramenta de terminal em Python para consultar uma URL e explicar os cabeçalhos HTTP de segurança da resposta final. Projeto educacional desenvolvido com auxílio de IA, usando apenas a biblioteca padrão.
+Ferramenta de terminal em Python para consultar uma URL e explicar os cabeçalhos HTTP de segurança da resposta final. Projeto educacional. Usando apenas a biblioteca padrão.
 
 ## Executar
 
